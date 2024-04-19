@@ -16,7 +16,7 @@ MERN stack is the idea of using Javascript/Node for fullstack web development.
 
 ## clone or download
 ```terminal
-$ git clone https://github.com/jdev12345/Jeeva-AI-/
+$ git clone https://github.com/jdev12345/Jeeva-AI/
 $ cd frontend
 $ npm install
 $ npm start
