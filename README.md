@@ -27,38 +27,39 @@ $ npm install
 
 ## project structure
 ```terminal
-backend/
-   controllers/
-     audioController.js
-  models/
-    audio.js
-  routes/
-    audioRouter.js
-  app.js
-  package.json
-  package-lock.json   
-frontend/
-  public/
-    favicon.ico
-    favicon.ico
-    logo192.png
-    logo512.png
-    manifest.json
-    robots.txt
-  src/
-    App.css
-    App.js
-    App.test.js
-    AudioPlayer.js
-    Form.js
-    Table.js
-    index.css
-    index.js
-    logo.svg
-    reportWebVitals.js
-    setupTests.js
-  package.json
-  package-lock.json
+.
+└── backend
+|   └── controllers
+|   |   ├── audioController.js
+|   ├── models
+|   |   └── audio.js
+|   ├── routes
+|   |  └── audioRouter.js
+|   |   ├── app.js
+|   ├── package.json
+|   └── package-lock.json   
+├── frontend
+|   ├──public
+|   |   ├── favicon.ico
+|   |   ├── favicon.ico
+|   |   ├── logo192.png
+|   |   ├── logo512.png
+|   |   ├── manifest.json
+|   |   └── robots.txt
+|   ├── src
+|   |   ├── App.css
+|   |   ├── App.js
+|   |   ├── App.test.js
+|   |   ├── AudioPlayer.js
+|   |   ├── Form.js
+|   |   ├── Table.js
+|   |   ├── index.css
+|   |   ├── index.js
+|   |   ├── logo.svg
+|   |   └── reportWebVitals.js
+|   ├── setupTests.js
+|   ├── package.json
+|   └── package-lock.json
 ...
 ```
 
