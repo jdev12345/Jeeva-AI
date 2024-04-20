@@ -12,14 +12,13 @@ MongoDB, Expressjs, React, Nodejs
 
 > Jeeva Ai Internship Assignment
 
-MERN stack is the idea of using Javascript/Node for fullstack web development.
+A web app made using MERN 
 
 ## clone or download
 ```terminal
 $ git clone https://github.com/jdev12345/Jeeva-AI/
 $ cd frontend
 $ npm install
-$ npm start
 $ cd ..
 $ cd backend
 $ npm install
